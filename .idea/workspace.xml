@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5988bae-5444-4110-9f3b-7a7f13c53584" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XTiz2HPeXpaXUs5gPPZZSHl9ji" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestPandigitalNumber">
+    <configuration name="TestPandigitalNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PandigitalNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.TestPandigitalNumber" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPandigitalNumber.checkInvalidPandigitalNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PandigitalNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.TestPandigitalNumber" />
+      <option name="METHOD_NAME" value="checkInvalidPandigitalNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPandigitalNumber.checkValidNumber" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="PandigitalNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.TestPandigitalNumber" />
+      <option name="METHOD_NAME" value="checkValidNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPandigitalNumber.checkValidPandigitalNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PandigitalNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.TestPandigitalNumber" />
+      <option name="METHOD_NAME" value="checkValidPandigitalNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPandigitalNumber.inputMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PandigitalNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.TestPandigitalNumber" />
+      <option name="METHOD_NAME" value="inputMockTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPandigitalNumber.inputSpyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PandigitalNumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.TestPandigitalNumber" />
+      <option name="METHOD_NAME" value="inputSpyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestPandigitalNumber.checkValidNumber" />
+      <item itemvalue="JUnit.TestPandigitalNumber" />
+      <item itemvalue="JUnit.TestPandigitalNumber.checkValidPandigitalNumber" />
+      <item itemvalue="JUnit.TestPandigitalNumber.checkInvalidPandigitalNumber" />
+      <item itemvalue="JUnit.TestPandigitalNumber.inputMockTest" />
+      <item itemvalue="JUnit.TestPandigitalNumber.inputSpyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPandigitalNumber" />
+        <item itemvalue="JUnit.TestPandigitalNumber.inputSpyTest" />
+        <item itemvalue="JUnit.TestPandigitalNumber.inputMockTest" />
+        <item itemvalue="JUnit.TestPandigitalNumber.checkInvalidPandigitalNumber" />
+        <item itemvalue="JUnit.TestPandigitalNumber.checkValidPandigitalNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5988bae-5444-4110-9f3b-7a7f13c53584" name="Default Changelist" comment="" />
+      <created>1581076743058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581076743058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581077782283">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="460" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.811@0.23.1440.811" timestamp="1581077782283" />
+    <state x="533" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1581079978281">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="533" y="136" key="#com.intellij.ide.util.MemberChooser/0.23.1440.811@0.23.1440.811" timestamp="1581079978281" />
+    <state x="475" y="150" key="DetectedRootsChooserDialog" timestamp="1581099216578">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="475" y="150" key="DetectedRootsChooserDialog/0.23.1440.808@0.23.1440.808" timestamp="1581099216578" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1581100778650">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1581100778650" />
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1581093847280" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1581100778649">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1581100778649" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1581093847279" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1581100778649">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1581100778649" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1581093847278" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1581100778649">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1581100778649" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1581093847279" />
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom" timestamp="1581098017935">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1581098017935" />
+    <state width="1398" height="258" key="GridCell.Tab.1.center" timestamp="1581098017935">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1581098017935" />
+    <state width="1398" height="258" key="GridCell.Tab.1.left" timestamp="1581098017934">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1581098017934" />
+    <state width="1398" height="258" key="GridCell.Tab.1.right" timestamp="1581098017935">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1581098017935" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1581099252809">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1581099252809" />
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1581076835284" />
+    <state x="399" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1581095101829">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="399" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1581095101829" />
+    <state x="432" y="329" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581076826766">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="432" y="329" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.811@0.23.1440.811" timestamp="1581076826766" />
+    <state x="114" y="51" key="new project wizard" timestamp="1581081977292">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="114" y="51" key="new project wizard/0.23.1440.811@0.23.1440.811" timestamp="1581081977292" />
+  </component>
+</project>
